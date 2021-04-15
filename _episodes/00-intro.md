@@ -17,11 +17,6 @@ dependencies: []
 originalRepository: UKRN-Open-Research/spreadsheets-socialsci
 
 ---
-
-
-
-
-
 > ## Things You’ll Need To Complete This Tutorial
 > #### Spreadsheet Software
 > To work through this tutorial you will need access to a spreadsheet program.
